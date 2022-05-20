@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036131179585",
+    "project_id": "loginizer-b5620",
+    "storage_bucket": "loginizer-b5620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036131179585:android:1482ceb75bd66217a9bac0",
+        "android_client_info": {
+          "package_name": "com.example.loginizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036131179585-s9b4f9jgd8du1dmag4o0t6aip8h7vkfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp2GpPYSIY07npc5Wg9ilF-bmknEOTI3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036131179585-s9b4f9jgd8du1dmag4o0t6aip8h7vkfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
